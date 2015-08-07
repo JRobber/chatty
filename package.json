@@ -1,0 +1,26 @@
+{
+  "name": "chatty",
+  "version": "1.0.0",
+  "description": "chatty ======",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JRobber/chatty.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JRobber/chatty/issues"
+  },
+  "homepage": "https://github.com/JRobber/chatty#readme",
+  "dependencies": {
+    "angular": "^1.4.3",
+    "body-parser": "^1.13.3",
+    "express": "^4.13.3",
+    "mongo": "^0.1.0"
+  }
+}
